@@ -40,9 +40,12 @@ Para executar a API  basta executar:
 ```
 (env)$ python app.py
 ```
+![Backend](https://drive.google.com/uc?export=view&id=1srRpME5PqteEwkW1EFGzW_7Z4-zQisxh)
+
 Para executar os testes:
 
 ```
 (env)$ python test_model.py
 ```
+![Teste](https://drive.google.com/uc?export=view&id=1SBTGGdbPALFo4mGOsk9CIaXAXAZ1yko7)
 
